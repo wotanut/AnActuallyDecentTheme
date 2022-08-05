@@ -5,7 +5,7 @@
 * @source https://github.com/wotanut/AnActuallyDecentTheme
 * @authorId 705798778472366131
 * @updateUrl https://raw.githubusercontent.com/wotanut/AnActuallyDecentTheme/main/AnActuallyDecentTheme.css
-* @version 0.0.1
+* @version 0.0.2
 */
 
 :root{
@@ -3855,8 +3855,10 @@ dcvarsp
 
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/wellThisIsAwkwardSoTryThis.css);
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
-@import url(https://raw.githubusercontent.com/wotanut/channel-icons/channelicons.theme.css);
+@import url(https://raw.githubusercontent.com/wotanut/channel-icons/channelicons.theme.css); /* this is the last working version of channel icons */
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+@import url(https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css);
+
 
 .role-2TIOKu {
 transform: translate(0);
