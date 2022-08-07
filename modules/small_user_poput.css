@@ -1,0 +1,10 @@
+.lookFilled-yCfaCM.colorGrey-2iAG-B{
+    background-color:#1DB954;
+    border-radius:10px;
+    box-shadow: rgba(68, 255, 44, .17) 0px 5px 15px;
+    color: var(--text-primary);
+}
+
+.theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B:disabled {
+    background-color:rgb(36, 124, 68);
+}
