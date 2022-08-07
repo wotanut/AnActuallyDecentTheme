@@ -1,3 +1,12 @@
+:root{
+    --dark-primary: #35383d;
+    --dark-secondary: #35383d;
+    --dark-secondary-alt: #35383d;
+    --dark-bright: #35383d;
+    --roundmoled-background: rgb(17, 17, 19);
+    --popout-activeborders: #18191b;
+}
+
 .menu-1QACrS
 {
 	border-radius:13px;
