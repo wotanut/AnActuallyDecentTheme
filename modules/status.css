@@ -1,0 +1,72 @@
+#status-picker .description-3Cwkxk{
+    display:none;
+}
+
+#status-picker-online:hover,
+#status-picker-online.focused-3qFvc8{
+    background-color:#1f95ca;
+    border-radius:10px;
+    transition:250ms;
+    box-shadow: rgba(44, 164, 255, .17) 0px 5px 15px;
+}
+
+#status-picker-dnd:hover,
+#status-picker-dnd.focused-3qFvc8{
+    background-color:#ca1f27;
+    border-radius:10px;
+    transition:250ms;
+    box-shadow: rgba(255, 44, 44, .17) 0px 5px 15px;
+}
+
+#status-picker-idle:hover,
+#status-picker-idle.focused-3qFvc8{
+    background-color:#c1c12e;
+    border-radius:10px;
+    transition:250ms;
+    box-shadow: rgba(227, 255, 44, .17) 0px 5px 15px;
+}
+
+#status-picker-invisible:hover,
+#status-picker-invisible.focused-3qFvc8{
+    background-color:#161616;
+    border-radius:10px;
+    transition:250ms;
+    box-shadow: rgba(91, 91, 91, .17) 0px 5px 15px;
+}
+
+#status-picker-custom-status:hover, 
+#status-picker-custom-status.focused-3qFvc8{
+    background-color:#2247a2;
+    border-radius:10px;
+    transition:250ms;
+    box-shadow: rgba(44, 79, 255, .17) 0px 5px 15px;
+}
+
+
+/* Set custom status modal */
+.lookFilled-1GseHa.select-1Ia3hD, .popout-1KHNAq{
+    background-color:var(--background-secondary);
+    border-radius:15px;
+}
+
+.popout-1KHNAq{
+    border-color:transparent;
+}
+
+.option-2eIyOn[aria-selected=true]{
+    background-color:var(--background-secondary);
+    margin-top:5px;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:13px;
+}
+
+.button-1zW0-r{
+	background-color:var(--background-secondary);
+	border-radius:17px;
+}
+
+.barButtonBase-Sk2mdB
+{
+    margin-top:3px;
+}
