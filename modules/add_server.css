@@ -1,0 +1,64 @@
+.root-g14mjS
+{
+    border-radius:25px;
+    overflow:hidden;
+}
+
+.container-x8Y1ix
+{
+    background-color: #fff;
+    color: var(--text-primary);
+}
+.input-2g-os5
+{
+    color:var(--background-primary);
+}
+
+.container-x8Y1ix:hover
+{
+    transform: scale(1.025);
+    border: solid var(--popout-activeborders);
+    transition: 250ms ease-in-out;
+    background-color: #fff;
+}
+
+.content-2hZxGK .input-2g-os5, .input-m1-Y7Q{
+    border-radius:7px;
+    background-color:var(--background-tertiary);
+}
+
+
+.colorHeaderSecondary-g5teka, .colorStandard-21JIj7, .lookBlank-3eh9lL
+{
+    color: var(--background-secondary);
+}
+
+.sampleLink-5BWNy9{
+    	color:var(--brand-experiment);
+	    font-size:16px;
+}
+
+.header-1c1AhF, .header-1zd7se
+{
+    	width:90%;
+    	height:5%;
+	    overflow: auto scroll;
+}
+
+.header-1c1AhF::-webkit-scrollbar, .header-1zd7se::-webkit-scrollbar{
+    display: none;
+}
+
+/* AMOLED-ify download app modal */
+.mobileContainer-1x7CLQ, .desktopContainer-spQem0
+{
+    border: solid var(--popout-activeborders);
+}
+
+/* AMOLED-ify discover section */
+.theme-dark .pageWrapper-2PwDoS{
+    border-radius: 20px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 10px;
+}
