@@ -1,0 +1,370 @@
+/* Pin message */
+.message-G6O-Wv{
+    background-color: var(--background-secondary) !important;
+    border-radius: 15px;
+    border:solid var(--popout-activeborders);
+}
+
+/* thread popout on channel name hover */
+.popout-TdhJ6Z{
+    background-color: var(--background-primary);
+    border-radius: 12px;
+    border:solid var(--popout-activeborders);
+}
+/* invite to channel */
+.lookOutlined-3sRXeN.colorGreen-29iAKY{
+    background-color:var(--brand-experiment);
+    border-radius:13px;
+    color:rgb(14, 14, 14);
+    font-weight:bold;
+    border:none;
+}
+
+.modal-atz_3z{
+  width:140%;
+  height:150%;
+}
+
+
+.inviteRow-3vmB7i:hover{
+    border-radius:15px;
+    
+    margin-right:6px;
+    transform:scale(1.03);
+    transition: transform 250ms;
+}
+
+/* @everyone and @here warning */
+.theme-dark .contentWarningPopout-WKdbDG{
+    background-color:var(--background-primary);
+    border-radius:15px;
+    border:solid var(--popout-activeborders);
+}
+
+/* nsfw chat warning buttons */
+
+.actionRed-gYn8D3{
+    border-radius:10px;
+}
+
+.actionRed-gYn8D3:hover{
+    box-shadow: rgba(255, 44, 44, 0.3) 0px 5px 15px;
+    transition:250ms;
+}
+
+/* Mentions in chat*/
+.wrapper-1ZcZW-{
+    border-radius:25px;
+    padding:0px 5px 0px 5px;
+}
+
+/* View code files / chat */
+.textContainer-36wgKK, .footer-GXWBBp, .modalTextContainer-1FUO2W{
+    border-radius:10px;
+    background-color:var(--background-primary);
+}
+
+.footer-GXWBBp{
+    margin-top:5px;
+}
+
+/* Bold urls on hover */
+.markup-eYLPri a:hover{
+    font-weight:bold;
+    transition:250ms;
+}
+
+
+/* Attachments in chat */
+
+.attachment-1PZZB2, .theme-dark .wrapperAudio-1Bzv_Z{
+    border-radius: 15px;
+    background-color:var(--background-primary);
+    width:150%;
+}
+.attachment-1PZZB2:hover, .theme-dark .wrapperAudio-1Bzv_Z:hover{
+    background-color:var(--background-secondary);
+    transition: 250ms;
+}
+
+.audioControls-3fmemK{
+    border-radius: 25px;
+}
+
+.filenameLinkWrapper-3Rc6sk, .metadata-1E7Z4i, .metadataName-1KMZtB{
+    font-size:18px;
+    text-align: center;
+}
+
+.filenameLinkWrapper-3Rc6sk:hover{
+    font-weight:bold;
+    transition: font-weight 250ms;
+}
+
+
+/* chat embeds */
+
+.embedFull-1HGV2S{
+    background-color:var(--background-secondary);
+    border-left: 4px solid var(--brand-experiment);
+}
+
+.embedFooterText-2Mc7H9{
+    font-size: 0.85rem;
+    line-height: 1rem;
+    font-weight: 500;
+}
+
+.embedThumbnail-2nTasl
+{
+    border-radius:13px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+/* Emoji picker big and small */
+
+.contentWrapper-3vHNP2
+{
+    background-color:var(--background-secondary);
+    border-radius: 15px;
+    border: solid var(--popout-activeborders);
+}
+
+.unicodeShortcut-3N8oDe, .wrapper-1NNaWG, .input-2FSSDe, .emojiPicker-6YCk8a
+{
+        background-color:var(--background-secondary);
+}
+
+.list-obNEuP
+{
+    background-color:var(--background-secondary);
+    border: solid var(--background-primary);
+}
+
+
+/* Send image modal chat */
+
+.theme-dark .uploadModal-2ie9O_, .theme-dark .footer-VCsJQY{
+	background-color:var(--background-primary);
+}
+
+.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.image-2ssF8k{
+	width: 40% !important;
+	height: 40% !important;
+	margin-left: 150px !important;
+	border: solid var(--popout-activeborders);
+}
+
+/* more upload modal things */
+.uploadModal-2ie9O_, .uploadModal-2ie9O_ .footer-VCsJQY{
+    border-radius:15px;
+}
+
+.theme-dark .footer-VCsJQY{
+        box-shadow: none;
+}
+.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR.expandable-2-lrzP .description-2AJi-V{
+position: relative;
+margin-left: 50%;
+transform: translate(-50%);
+}
+
+.theme-dark .checkbox-f1HnKB{
+    background-color:var(--background-primary);
+    border-radius:25px;
+}
+
+.uploadModal-2ie9O_ .footer-VCsJQY.hasSpoilers-33hwf_ .checkboxWrapper-2fDzaA{
+    background-color:var(--background-primary);
+    margin-right:140px;
+    padding:7px;
+    border-radius:25px;
+}
+
+.uploadModal-2ie9O_ .footer-VCsJQY.hasSpoilers-33hwf_ .checkboxWrapper-2fDzaA:hover{
+    background-color:var(--background-secondary);
+    transition: 250ms ease-in-out;
+}
+
+.theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6{
+    background-color:#af2626;
+    margin-right:10px;
+    border-radius:15px;
+}
+.theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6:hover{
+    box-shadow: rgba(255, 44, 44, .3) 0px 5px 15px;
+    transition: box-shadow 250ms;
+}
+
+
+/* Code blocks in chat */
+.markup-eYLPri code{
+    border-radius:10px;
+    background-color:var(--background-secondary);
+}
+
+
+/* You're viewing older messages */
+.jumpToPresentBar-1cEnH0{
+    background-color: var(--brand-experiment);
+    border-radius:25px;
+    margin-bottom:10px;
+}
+
+
+/* Inbox */
+
+.container-2ebMPP, .channelHeader-DFRX8q
+{
+    border-radius:15px;
+    background-color:var(--background-secondary);
+    
+}
+
+.container-2ebMPP, .tutorial-Nb3Zz5
+{
+	border: solid var(--popout-activeborders);
+}
+
+.tutorial-Nb3Zz5, .header-1w9Q93
+{
+    background-color:var(--background-primary);
+}
+
+.messageContainer-3VTXBC{
+    margin-top:5px;
+}
+
+/* Pins */
+
+.messagesPopoutWrap-3zryHW
+{
+    background-color:var(--background-secondary);
+    border-radius: 15px;
+    border: solid var(--popout-activeborders);
+}
+
+/* invites in chat */
+.wrapper-1HIH0j
+{
+    background-color:var(--background-secondary);
+    border: solid var(--popout-activeborders);
+    border-radius:15px;
+}
+
+.lookFilled-1Gx00P.colorGreen-29iAKY
+{
+        background-color:var(--brand-experiment);
+	      box-shadow: rgba(44, 139, 255, .23) 0px 5px 15px;
+}
+
+.lookFilled-1Gx00P.colorGreen-29iAKY:hover
+{
+    filter:brightness(80%);
+    transform: scale(1.035);
+    transition: 250ms ease-in-out;
+}
+
+/* amoledify message search popout */
+.theme-dark .container-2McqkF{
+    border-radius:15px;
+    background-color:var(--background-secondary);
+    border: solid var(--popout-activeborders);
+}
+
+.searchHeader-1r_ZSh{
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .option-2KkUJO:after{
+        background: linear-gradient(90deg,rgba(21, 21, 21, 0),#000 80%);
+}
+
+.searchResultsWrap-5RVOkx{
+    border-radius:20px;
+    background-color:var(--background-primary);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.channelName-3w2Y3c{
+    background:var(--background-secondary);
+    border-radius:7px;
+}
+
+/* Chat @ and emoji autocomplete */
+.theme-dark .autocomplete-3NRXG8
+{
+    background-color:var(--background-secondary);
+    border-radius:15px;
+    border: solid var(--popout-activeborders);
+}
+
+.theme-dark .selected-3H3-RC
+{
+        background-color:var(--background-secondary-alt);
+        transform: scale(1.015);
+        transition: 250ms ease-in-out;
+}
+
+/*  follow this channel modal */
+.wrapper-2SplAX{
+    background-color: var(--background-secondary);
+    border: solid var(--popout-activeborders);
+}
+
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover
+{
+    background-color:var(--brand-experiment);
+}
+    
+.clickable-vvKY2q .header-3OsQeK:hover, .selecetd-1GtAC5 .header-3OsQeK{
+    background-color: var(--background-secondary);
+}
+
+/* home page and DMs stuff */
+
+.theme-dark .container-2cd8Mz
+{
+    border-radius: 20px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 10px;
+}
+
+/* Home colors */
+.topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG:hover{
+    background-color:var(--brand-experiment);
+}
+
+
+:root .peopleColumn-1wMU14, .privateChannels-oVe7HL, .scroller-1JbKMe, .scroller-WSmht3{
+    background-color: var(--background-primary);
+}
+
+:root .searchBar-6Kv8R2 .searchBarComponent-32dTOx{
+    margin-top:5px;
+    border-radius: 25px;
+}
+
+:root .theme-dark .container-2cd8Mz, .container-1a3EgQ, .applicationStore-1pNvnv{
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+/* friends now playing home */
+
+.wrapper-2RrXDg, .theme-dark .separator-XqIyoz, .theme-dark .inset-3sAvek{
+    background-color:var(--background-secondary);
+}
+
+.section-2gLsgF{
+    border-radius:13px;
+}
+
+.wrapper-2RrXDg:hover, .peopleListItem-u6dGxF:hover{
+        transform: scale(1.025);
+        transition: 250ms ease-in-out;
+}
