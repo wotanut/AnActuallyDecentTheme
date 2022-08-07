@@ -1,0 +1,188 @@
+
+/* settings */
+:root .ebarRegionScroller-FXiQOh
+{
+    background-color: var(--background-secondary);
+}
+
+.accountProfileCard-lbN7n-{
+    background-color: var(--background-secondary);
+    border-radius:15px;
+}
+
+.fieldList-in8WkP, .background-3d_SjE
+{
+        background-color: var(--background-secondary);
+}
+
+.avatar-3mTjvZ{
+    border-color: var(--background-secondary);
+    background-color: var(--background-secondary);
+}
+
+.background-3d_SjE
+{
+    border: solid var(--popout-activeborders);
+}
+
+.item-2idW98
+{
+    background-color: var(--background-secondary);
+    border-radius:10px;
+}
+
+.item-2idW98:hover
+{
+        transform: scale(1.015);
+        transition: 250ms ease-in-out;
+}
+
+.radioIconForeground-2BMavi{
+    color: var(--brand-experiment);
+}
+
+/* Server boost tab settings */
+.guildHeader-3nh5RK, .guildSubscriptionSlots-JPXXvN, .cardWrapper-CyvwQv
+{
+    background-color:var(--background-secondary);
+}
+
+.guild-Hq0WWA
+{
+    border-radius:13px;
+}
+
+.card-2gdrYL:hover
+{
+    background-color:var(--background-secondary);
+}
+
+/* end file *.
+/* Server settings */
+/* Overview server settings */
+
+/* needs to be fixed*/
+
+/* new file settings.css */
+.marginBottom40-fvAlAV{
+    border-radius:13px;
+    padding:15px;
+    background-color:var(--background-secondary);
+    margin-bottom:20px !important;
+}
+
+
+.css-3vaxre-menu{
+    border-radius:12px;
+    background-color:var(--background-secondary);
+}
+
+.lighten-1KubYe{
+    opacity:0.7;
+}
+
+.css-rzbxvl-option:hover{
+    border-radius:10px;
+    background-color:var(--background-primary);
+    
+}
+
+.css-gvi9bl-control, .css-17e1tep-control{
+    background-color:var(--background-secondary);
+    border-radius:10px;
+
+}
+.css-gvi9bl-control:hover{
+    border-radius:10px;
+    transform:scale(1.025);
+    background-color:var(--background-secondary);
+    transition: .25s ease;
+}
+
+.theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6{
+    background-color:var(--background-secondary);
+    border:none;
+    border-radius:12px;
+    
+}
+.theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6:hover{
+    box-shadow: rgba(44, 139, 255, .3) 0px 5px 15px;
+    transition: .3s;
+}
+
+/* Stickers server settings */
+.tierHeaderContent-2SPBAA, .theme-dark .tierHeaderUnlocked-1OpOLf, .theme-dark .tierHeaderLocked-30MLlO, .wrapper-24fR1R{
+    border-radius:15px;
+    background-color:var(--background-secondary);
+}
+
+.wrapper-24fR1R:hover{
+    border:solid var(--background-secondary);
+    transition:250ms ease-in-out;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91{
+    border-radius:12px;
+    
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover{
+box-shadow: rgba(44, 139, 255, .3) 0px 5px 15px;
+}
+
+.theme-dark .tierBody-1d3UiS{
+    border-radius:15px;
+    margin-top:10px;
+    background-color:var(--background-secondary);
+}
+
+/* Integrations server settings */
+.theme-dark .card-o7rAq-{
+    border-radius:15px;
+}
+.theme-dark .card-o7rAq-:hover{
+    background-color:var(--background-secondary);
+}
+
+/* Roles server settings */
+
+.roleRow-3LoHQ6:hover:not(.roleRowDisableHover-2TXfy-){
+    border-radius:12px;
+}
+
+.theme-dark .colorPickerCustom-1swUKF{
+    background-color:var(--background-secondary);
+    width:100%;
+}
+
+.previewContainer-1xQAsw{
+    border-radius:12px;
+}
+
+
+.container-3EtAkD{
+    border-radius:15px;
+    background-color:var(--background-secondary);
+    border:solid var(--popout-activeborders);
+}
+
+.container-3EtAkD:hover{
+ background-color:var(--brand-experiment) !important;
+ transition: .25s ease;
+
+}
+
+.layer-2aCOJ3{
+    border-radius:15px;
+    margin-bottom:5px;
+}
+
+.status-3TYC5W{
+    text-align:center;
+    font-size:15px;
+}
+
+
+.mask-2Me5HY{
+transform:scale(1.8) !important;
+
+}
