@@ -28,6 +28,7 @@
 @import url(https://wotanut.github.io/AnActuallyDecentTheme/modules/status.css);
 @import url(https://wotanut.github.io/AnActuallyDecentTheme/modules/unread.css);
 @import url(https://wotanut.github.io/AnActuallyDecentTheme/modules/user_settings.css);
+@import url(https://wotanut.github.io/AnActuallyDecentTheme/modules/channel_icons.css);
 
 :root{
     --dark-primary: #35383d;
